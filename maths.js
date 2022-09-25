@@ -9,11 +9,7 @@ const devide = (a, b) => {
     return a / b
 }
 
-const logFunction = (a)=>{
-    return log(a)
-}
 
-
-console.log("gaurav");
+console.log("gaurav");//name latest
 
 export { add, substract, devide };
