@@ -10,6 +10,6 @@ const devide = (a, b) => {
 }
 
 
-console.log("gaurav");//name latest
+console.log("gaurav");//name lates
 
 export { add, substract, devide };
