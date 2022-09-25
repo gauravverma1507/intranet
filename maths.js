@@ -9,4 +9,8 @@ const devide = (a, b) => {
     return a / b
 }
 
+const logFunction = (a)=>{
+    return log(a)
+}
+
 export { add, substract, devide };
