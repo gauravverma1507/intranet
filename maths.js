@@ -13,4 +13,7 @@ const logFunction = (a)=>{
     return log(a)
 }
 
+
+console.log("gaurav");
+
 export { add, substract, devide };
